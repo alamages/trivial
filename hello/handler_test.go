@@ -7,7 +7,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/totherme/trivial/hello"
+	"github.com/alamages/trivial/hello"
 )
 
 var _ = Describe("Handler", func() {
